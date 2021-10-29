@@ -1,0 +1,3 @@
+R5T.T0075.Construction - Construction project for Custom IHostBuilder interface and HostBuilder class implementation..
+
+GOALS:
